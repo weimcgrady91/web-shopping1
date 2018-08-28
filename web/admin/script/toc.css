@@ -1,0 +1,40 @@
+body {
+    background-color: #eeeeee;
+    color: #000000;
+    font-family: "????";
+    font-weight: 500;;
+    font-size: 9pt
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0066CC;
+}
+
+.level0 {
+    font-size: 11pt /*medium*/;
+    padding-top: 8px;
+    line-height: 14pt;
+}
+
+.level1 {
+    font-size: 10pt /*small*/;
+    padding: 2px;
+}
+
+.level2 {
+    font-size: 9pt /*x-small*/;
+    color: #FFFFFF;
+}
+
+li {
+    line-height: 14pt;
+}
+
+.outdent {
+    margin-left: -16px;
+}
